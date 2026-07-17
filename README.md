@@ -1,4 +1,4 @@
-# SET Season 1 Server Config
+# Tyr Server Config Templates
 Provides for the following configuration:
 
 * longer score-screen time
